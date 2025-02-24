@@ -13,35 +13,28 @@ Cryers is a 2D fighting game where you battle zombies in dynamic arenas. As you 
 Below are four gameplay videos showcasing different aspects of Cryers:
 
 ### Video 1: Introduction and Basic Training
-<video src="https://raw.githubusercontent.com/erencanakyuz/Cryers/main/demo/entry.mp4" width="640" controls>
+<video src="https://github.com/user-attachments/assets/7a087276-abc2-4bca-afc4-536ecde1ba2a" width="640" controls>
 Your browser does not support the video tag.
 </video>
 
 ### Video 2: Shop
-<video src="https://raw.githubusercontent.com/erencanakyuz/Cryers/main/demo/shop.mp4" width="640" controls>
+<video src="https://github.com/user-attachments/assets/da24d93b-5df4-4a71-8fa3-83dd0d22aec2" width="640" controls>
 Your browser does not support the video tag.
 </video>
 
 ### Video 3: Arena Showdown
-<video src="https://raw.githubusercontent.com/erencanakyuz/Cryers/main/demo/arena.mp4" width="640" controls>
+<video src="https://github.com/user-attachments/assets/3cd0585e-8a33-4de1-8a39-da851ace2c2a" width="640" controls>
+   https://github.com/user-attachments/assets/f41e3557-90b9-48f4-8353-f82be655db12
 Your browser does not support the video tag.
 </video>
 
-### Video 4: Next Levels
-<video src="https://raw.githubusercontent.com/erencanakyuz/Cryers/main/demo/level3.mp4" width="640" controls>
+### Video 4: Arena2
+<video src=" https://github.com/user-attachments/assets/f41e3557-90b9-48f4-8353-f82be655db12" width="640" controls>
 Your browser does not support the video tag.
 </video>
 
-## Installation
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/username/cryers.git
-Open the Project in Unity:
-Open Unity Hub and click "Add" to include the Cryers project.
-Run the Game:
-Play the game in the Unity Editor or build the project for your target platform.
-Tools Used
-Unity: Game development engine
-C#: Programming language for game logic
-Adobe Premiere Pro: For editing gameplay videos
-Git & GitHub: Version control and project management
+### Video 5: Next Levels
+<video src="https://github.com/user-attachments/assets/01227b5e-fbb5-4859-afc9-b07f31bad3aa" width="640" controls>
+Your browser does not support the video tag.
+</video>
+
